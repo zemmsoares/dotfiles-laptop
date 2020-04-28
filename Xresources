@@ -1,0 +1,18 @@
+!! Colorscheme
+
+! special
+*.foreground: #B8B9B4
+*.background: #222222
+
+URxvt.color0: #D44420
+URxvt.color1: #3C443C
+URxvt.color2: #222222
+URxvt.color3: #6B6A66
+URxvt.color4: #D1CCC7
+
+URxvt.scrollBar:false
+URxvt.cursorColor: #D44420
+URxvt.internalBorder: 10
+URxvt.font: xft:JetBrainsMono-Regular:pixelsize=11
+URxvt.iso14755: False
+
